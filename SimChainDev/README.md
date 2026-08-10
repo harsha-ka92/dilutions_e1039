@@ -1,5 +1,5 @@
 # A Program to Run Full Chain of E1039 Simulation
-
+This package is updated to include the beamline components to the simulation. This is done in G4_Beamline.C
 ## Environment
 
 This program depends on the E1039 resource+share+core packages.
