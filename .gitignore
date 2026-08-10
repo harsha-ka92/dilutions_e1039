@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# ROOT
+*.root
+
+# Data
+*.parquet
+*.csv
+
+# Generated plots
+*.png
+*.pdf
+*.jpg
+
+# Build/shared libraries
+*.so
+*.o
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
